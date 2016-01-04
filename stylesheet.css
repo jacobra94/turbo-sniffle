@@ -74,6 +74,7 @@ table {
 }
 
 td {
+<<<<<<< HEAD
 	height: 125px;
 	width: 125px;
 }
@@ -81,6 +82,15 @@ td {
 td img {
 	height: 125px;
 	width: 125px;
+=======
+	height: 175px;
+	width: 175px;
+}
+
+td img {
+	height: 175px;
+	width: 175px;
+>>>>>>> master
 	box-shadow: none;
 }
 
